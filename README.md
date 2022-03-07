@@ -8,3 +8,5 @@ Fluxograma e variaveis
 - Tipos de variaveis
 
 Tomada de decisao e expressoes
+
+certificado do curso esta no drive
